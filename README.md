@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <mate charest="utf-8" />
+        <title>Hello world!</title>
+    </head>
+    <body>
+        <h1>Hello world!</h1>
+
 # desarrollo-lenguaje-c++
 Programas y ejercicios desarrollados en C++
 
@@ -17,8 +26,11 @@ Operaciones entre vectores y matrices.
 Manejo de algoritmos de ordenamiento y búsqueda con estructuras de datos.
 Operaciones de inserción, eliminación y recorrido con estructuras de datos.
 
-
-
+      
+      
+    </body>
+</html>
+```
 
 
 
