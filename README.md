@@ -17,8 +17,8 @@ algoritmos a traves de la codificación del lenguaje de programación C++
 # Resultado del trabajo 
 Para lograr el propósito del trabajo se adquirieron los siguientes conocimientos y habilidades:
 
-+Identificación y manipulación de los diferentes tipos de datos (enteros, caracteres, booleanos, etc).
-+Uso de estructuras selectivas (IF-ELSE, CASE).
+- Identificación y manipulación de los diferentes tipos de datos (enteros, caracteres, booleanos, etc).
+- Uso de estructuras selectivas (IF-ELSE, CASE).
 Uso de estructuras repetitivas (while, do  while, for).
 Manejo de subprogramas (subrutinas y funciones).
 Utilización de datos estructurados en la solución de problemas (arreglos, listas, pilas, colas, grafos).
